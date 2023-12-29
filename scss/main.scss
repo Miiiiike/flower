@@ -187,7 +187,8 @@ body {
       transform: translate(-50%, -100%);
       width: 8vmin;
       height: 8vmin;
-      background-color: #6bf0ff;
+      // background-color: #6bf0ff;
+      background-color: #fffc3e;
       filter: blur(10vmin);
     }
   }
@@ -436,7 +437,8 @@ body {
     animation: light-ans 4s linear infinite backwards;
 
     &:nth-child(odd) {
-      background-color: #23f0ff;
+      // background-color: #23f0ff;
+      background-color: #fff523;
     }
 
     &--1 {
@@ -968,7 +970,8 @@ body {
         ),
         linear-gradient(
           to bottom right,
-          #23f0ff 45%,
+          // #23f0ff 45%,
+          #fff523 45%,
           transparent 50%,
           transparent
         );
